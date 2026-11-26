@@ -1,0 +1,14 @@
+{
+ "format": 1,
+ "product": "routedesk",
+ "version": "2026.11.26.1611",
+ "publishedAt": "2026-11-26T07:11:43Z",
+ "minFrom": "2026.11.1.0",
+ "notes": "請求書をこれまでの見本の形に合わせました。FAX 送付状を作れるようになりました。",
+ "file": {
+  "name": "routedesk-2026.11.26.1611.zip",
+  "url": "https://raw.githubusercontent.com/aikcompany/routedesk-updates/main/routedesk-2026.11.26.1611.zip",
+  "bytes": 417739,
+  "sha256": "f09e0d7f361188bb1091ec6cfa2f4b7e88dc94717fcc46a06185ec5f04e827b5"
+ }
+}
